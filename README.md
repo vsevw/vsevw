@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vsevw
+- 👀 I’m interested in becoming a cybersecurity or web & software developer in the future
+- 🌱 I’m currently learning python
